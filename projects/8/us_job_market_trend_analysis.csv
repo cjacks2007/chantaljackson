@@ -1,0 +1,101 @@
+Job_Title,Company,Location,Experience_Level,Salary,Date_Posted
+ML Engineer,Netflix,"Austin, TX",Senior Level,192396,2024-06-22
+ML Engineer,Meta,"San Francisco, CA",Senior Level,151267,2024-05-23
+ML Engineer,Microsoft,"Seattle, WA",Senior Level,79870,2024-06-06
+Data Analyst,Amazon,Remote,Mid Level,86790,2024-06-22
+ML Engineer,Microsoft,"New York, NY",Entry Level,178874,2024-06-06
+AI Specialist,Microsoft,"Seattle, WA",Senior Level,85289,2024-05-10
+AI Specialist,Netflix,"Austin, TX",Mid Level,75485,2024-05-10
+Data Analyst,Meta,"Seattle, WA",Entry Level,104482,2024-05-19
+ML Engineer,Google,Remote,Entry Level,146188,2024-05-17
+ML Engineer,Meta,"New York, NY",Entry Level,64748,2024-05-21
+ML Engineer,Meta,"New York, NY",Entry Level,63709,2024-05-14
+Business Intelligence Analyst,Microsoft,Remote,Senior Level,183961,2024-05-09
+Data Engineer,Meta,Remote,Senior Level,90355,2024-06-15
+Business Intelligence Analyst,Amazon,"Austin, TX",Mid Level,102918,2024-05-01
+Data Engineer,Microsoft,"New York, NY",Mid Level,112224,2024-06-20
+ML Engineer,Amazon,"Seattle, WA",Mid Level,99298,2024-06-14
+ML Engineer,Google,"San Francisco, CA",Entry Level,140219,2024-05-13
+Business Intelligence Analyst,Microsoft,"San Francisco, CA",Entry Level,121629,2024-05-04
+Business Intelligence Analyst,Google,Remote,Senior Level,126040,2024-07-01
+Data Engineer,Microsoft,"Austin, TX",Entry Level,88016,2024-05-01
+AI Specialist,Netflix,"San Francisco, CA",Entry Level,83960,2024-06-18
+Data Engineer,Meta,"New York, NY",Entry Level,93591,2024-06-09
+Business Intelligence Analyst,Netflix,Remote,Mid Level,163333,2024-06-01
+Business Intelligence Analyst,Google,"Seattle, WA",Mid Level,174821,2024-06-03
+Data Analyst,Meta,Remote,Senior Level,96395,2024-05-28
+Business Intelligence Analyst,Microsoft,"Seattle, WA",Entry Level,189695,2024-05-31
+Data Analyst,Meta,Remote,Entry Level,94620,2024-05-08
+AI Specialist,Amazon,Remote,Senior Level,188148,2024-06-08
+Data Engineer,Meta,Remote,Entry Level,80559,2024-05-26
+Data Engineer,Amazon,"Seattle, WA",Entry Level,153396,2024-06-27
+Data Analyst,Meta,"Seattle, WA",Mid Level,81732,2024-06-03
+Data Engineer,Amazon,Remote,Senior Level,151362,2024-06-23
+Business Intelligence Analyst,Google,"San Francisco, CA",Senior Level,73843,2024-06-23
+ML Engineer,Netflix,"Austin, TX",Senior Level,174065,2024-05-03
+Data Analyst,Microsoft,"Austin, TX",Senior Level,131726,2024-06-28
+Data Engineer,Meta,"Austin, TX",Mid Level,77640,2024-06-19
+Data Analyst,Netflix,"Seattle, WA",Mid Level,112528,2024-05-12
+Data Analyst,Microsoft,"Seattle, WA",Entry Level,98413,2024-05-01
+ML Engineer,Microsoft,"San Francisco, CA",Entry Level,112638,2024-06-23
+Business Intelligence Analyst,Amazon,"Austin, TX",Entry Level,170133,2024-06-13
+Data Analyst,Google,"Austin, TX",Entry Level,166357,2024-05-05
+Data Engineer,Google,Remote,Mid Level,198186,2024-05-30
+AI Specialist,Netflix,"Seattle, WA",Senior Level,138859,2024-05-30
+Data Analyst,Google,"Austin, TX",Mid Level,159657,2024-06-28
+Data Analyst,Meta,"San Francisco, CA",Entry Level,71023,2024-06-26
+ML Engineer,Google,"San Francisco, CA",Mid Level,81447,2024-05-17
+Business Intelligence Analyst,Netflix,"Austin, TX",Senior Level,185899,2024-06-17
+AI Specialist,Google,"Seattle, WA",Senior Level,83959,2024-06-16
+Data Engineer,Meta,"San Francisco, CA",Mid Level,126203,2024-05-23
+AI Specialist,Amazon,Remote,Mid Level,179156,2024-05-15
+Data Engineer,Netflix,"San Francisco, CA",Mid Level,69337,2024-06-06
+Business Intelligence Analyst,Amazon,"New York, NY",Entry Level,106427,2024-05-21
+Data Engineer,Amazon,"New York, NY",Mid Level,121529,2024-05-14
+ML Engineer,Amazon,"Seattle, WA",Mid Level,162023,2024-05-02
+ML Engineer,Microsoft,"Austin, TX",Mid Level,144665,2024-05-11
+ML Engineer,Microsoft,"Seattle, WA",Senior Level,165787,2024-06-20
+ML Engineer,Amazon,"Seattle, WA",Senior Level,93307,2024-06-08
+AI Specialist,Netflix,"Seattle, WA",Entry Level,187016,2024-06-07
+Business Intelligence Analyst,Meta,"Seattle, WA",Entry Level,64835,2024-06-29
+Data Engineer,Meta,Remote,Senior Level,80159,2024-06-03
+Data Engineer,Google,Remote,Senior Level,181790,2024-06-07
+ML Engineer,Netflix,"San Francisco, CA",Senior Level,165616,2024-06-19
+ML Engineer,Microsoft,"New York, NY",Mid Level,138752,2024-06-03
+Data Analyst,Amazon,"Seattle, WA",Mid Level,115284,2024-05-18
+Business Intelligence Analyst,Google,"San Francisco, CA",Senior Level,117043,2024-05-30
+AI Specialist,Meta,"New York, NY",Mid Level,157007,2024-05-15
+Data Engineer,Microsoft,"Austin, TX",Mid Level,142844,2024-05-27
+Data Analyst,Microsoft,Remote,Entry Level,87532,2024-06-20
+Data Analyst,Amazon,"New York, NY",Senior Level,182402,2024-06-03
+Data Engineer,Meta,"Austin, TX",Senior Level,178012,2024-06-21
+AI Specialist,Netflix,"New York, NY",Mid Level,196785,2024-06-26
+Data Analyst,Microsoft,Remote,Senior Level,116178,2024-06-07
+Data Analyst,Amazon,Remote,Entry Level,109407,2024-06-02
+Business Intelligence Analyst,Netflix,"San Francisco, CA",Entry Level,110990,2024-05-24
+AI Specialist,Meta,"Seattle, WA",Entry Level,189473,2024-05-15
+Data Analyst,Microsoft,"New York, NY",Senior Level,118141,2024-06-29
+AI Specialist,Netflix,"New York, NY",Senior Level,116570,2024-05-30
+Data Engineer,Netflix,"Austin, TX",Senior Level,61015,2024-06-24
+ML Engineer,Netflix,Remote,Senior Level,121813,2024-06-11
+Data Analyst,Microsoft,"New York, NY",Senior Level,87712,2024-06-20
+Business Intelligence Analyst,Microsoft,Remote,Entry Level,160497,2024-05-17
+Data Engineer,Google,"New York, NY",Mid Level,199487,2024-05-05
+AI Specialist,Meta,"San Francisco, CA",Entry Level,172816,2024-05-29
+Data Engineer,Amazon,"Seattle, WA",Senior Level,188778,2024-05-04
+Data Analyst,Netflix,"New York, NY",Entry Level,122292,2024-05-10
+AI Specialist,Google,Remote,Senior Level,83833,2024-06-25
+ML Engineer,Amazon,"San Francisco, CA",Senior Level,195230,2024-05-17
+Data Engineer,Google,"New York, NY",Entry Level,80309,2024-05-10
+Data Analyst,Microsoft,"Austin, TX",Senior Level,66970,2024-05-17
+Business Intelligence Analyst,Netflix,"Seattle, WA",Mid Level,132474,2024-06-29
+AI Specialist,Amazon,"New York, NY",Senior Level,106540,2024-05-20
+Data Engineer,Amazon,"San Francisco, CA",Mid Level,78017,2024-05-24
+Data Engineer,Amazon,"Austin, TX",Mid Level,135880,2024-05-05
+ML Engineer,Amazon,"San Francisco, CA",Senior Level,165570,2024-06-03
+ML Engineer,Amazon,"San Francisco, CA",Entry Level,68702,2024-05-06
+Business Intelligence Analyst,Google,"Austin, TX",Mid Level,191456,2024-06-22
+Business Intelligence Analyst,Netflix,"San Francisco, CA",Entry Level,60404,2024-05-02
+Data Analyst,Microsoft,"Austin, TX",Mid Level,72763,2024-05-13
+Data Analyst,Microsoft,"New York, NY",Senior Level,158142,2024-07-01
+Business Intelligence Analyst,Microsoft,"Austin, TX",Senior Level,140642,2024-06-12
